@@ -76,6 +76,10 @@ body {
     color: #024e76;
   }
 
+  .footer-text span {
+    font-size: 10px;
+  }
+
   section {
     padding: 60px;
    
